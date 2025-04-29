@@ -24,3 +24,5 @@ Before you run the app in Simulator or deploy it to a test environment, make sur
 3. Switch to the **Options** tab  
 4. Under **StoreKit Configuration**, open the dropdown and choose **Subscriptions.storekit**  
 5. Click **Close** to save your changes  
+
+## May the Force be with you! 🥷
